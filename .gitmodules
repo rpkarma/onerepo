@@ -1,3 +1,9 @@
 [submodule "spring-security"]
 	path = spring-security
 	url = https://github.com/SpringSource/spring-security.git
+[submodule "spring-security-saml"]
+	path = spring-security-saml
+	url = https://github.com/SpringSource/spring-security-saml.git
+[submodule "spring-security-oauth"]
+	path = spring-security-oauth
+	url = https://github.com/SpringSource/spring-security-oauth.git
