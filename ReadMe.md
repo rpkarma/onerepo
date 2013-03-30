@@ -1,1 +1,1 @@
-Single repository for open source projects
+repository for open source projects
